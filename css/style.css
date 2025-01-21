@@ -9,7 +9,7 @@ header {
     left: 0; /* Posicionamiento izquierdo */
     width: 200px; /* Ancho del menú */
     height: 100vh; /* Altura del menú (100% del viewport) */
-    background-color: #D6CFCD; /* Color de fondo del menú */
+    background-color: #947269; /* Color de fondo del menú */
     padding: 20px; /* Padding interno del menú */
 	flex:1;
     transition: all 0.3s ease; /* Animación de transición para suavizar los cambios */
